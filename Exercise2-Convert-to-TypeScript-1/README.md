@@ -4,7 +4,7 @@ In this exercise, you will convert an existing JavaScript project into TypeScrip
 
 ### 1. Review the Project Setup
 
-* Modify the `index.ts` file using the following starter code. Note that this code has not yet been converted to TypeScript:
+* Modify the `index.js` file using the following starter code. Note that this code has not yet been converted to TypeScript:
 
 * There are three JavaScript files in the `src/utilities` folder.
 - **`strings.js`**
